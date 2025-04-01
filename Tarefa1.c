@@ -1,3 +1,6 @@
+// Mateus Ribeiro Cerqueira - 10443901
+//Pedro Carvalho - 10418861
+
 #include <stdio.h>
 
 #define maxN 100
